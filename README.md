@@ -12,3 +12,6 @@ Or ADB:
 ```bash
 adb shell wm reset
 ```
+
+# Credits
+Credit to @做梦书 for finding the original issue and providing solutions.
