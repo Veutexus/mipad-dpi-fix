@@ -16,7 +16,7 @@ Simply flashing the module should fix the problem. If the issue persist after fl
 wm reset
 ```
 
-# Or ADB:
+Or ADB:
 
 ```bash
 adb shell wm reset
